@@ -1,6 +1,6 @@
 # COMP0158_XQPZ0_CODE
 
-This repository contains all the data and code for candidate XQPZ0's MSc DSML thesis with UCL. All data files are in Apache Parquet format. All code is provided in commented and structure Jupyter Notebooks.
+This repository contains all the data and code for candidate XQPZ0's MSc DSML thesis with UCL. All data files are in Apache Parquet format. All code is provided in commented and structured Jupyter Notebooks.
 
 The contents of each file are described here:
 
@@ -18,7 +18,7 @@ The contents of each file are described here:
 - **'HFEA_2014.parquet'**: Contains the preprocessed HFEA data from the year 2014 (for further experiments).
 - **'HFEA_2015.parquet'**: Contains the preprocessed HFEA data from the year 2015 (for further experiments).
 - **'FRESH_FROZEN_2016.parquet'**: Contains the preprocessed data from 2016 with both 'fresh' and 'frozen' cycles.
-- **EDA.ipynb**: Contains all preprocessing and exploratory data analysis code documented in _Chapter 3_ of the report.
+- **EDA.ipynb**: Contains all preprocessing and exploratory data analysis code documented in _Chapter 3_ of the report. (NOTE: This file can take time to render due to its size)
 - **BASELINES.ipynb**: Contains the code and results for all baseline models (single-stage models and multistage models leveraging unsupervised learning), documented in _Chapter 4_ of the report.
 - **'CASCADE_#1.ipynb**: Contains the code and results for Cascade #1, documented in _Chapters 5 & 6_ of the report.
 - **'CASCADE_#2.ipynb**: Contains the code and results for Cascade #2, documented in _Chapters 5 & 6_ of the report.
